@@ -1,6 +1,6 @@
 ## react 프로젝트에서 mobx 사용시, 함수형 컴포넌트에 @데코데이터 쓰는 방법.
 
-```
+```javascript
 import React, { Component } from 'react';
 import { render } from 'react-dom';
 import { observable } from 'mobx'
