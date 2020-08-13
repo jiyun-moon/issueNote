@@ -27,6 +27,6 @@ fatal 에러가 나는 경우,
 
 /* 변경이 잦을 떄 */
 .gitconfig
-[alias]
-    hide = update-index --assume-unchanged
-    unhide = update-index --no-assume-unchanged
+`[alias]`
+    `hide = update-index --assume-unchanged`
+   `unhide = update-index --no-assume-unchanged`
